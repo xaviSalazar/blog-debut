@@ -32,7 +32,7 @@ export default function Home() {
   <h2>- 🤔 &nbsp; Exploring new technologies and coding new bugs all the time. </h2>
   <h2>- 🎓 &nbsp; I have an Electrical Engineering Bachelor with an Embedded Systems master.</h2>
   <h2>- 💼 &nbsp; Enthusiast in Web development and Artificial Intelligence.</h2>
-  <h2>- ✍️ &nbsp; I enjoy taking my backpack with me and visiting new places.  </h2>
+  <h2>- 🎒 &nbsp; I enjoy taking my backpack with me and visiting new places.  </h2>
   {/* <h2>- ☕ &nbsp; I am a beer enthusiast when it comes to create innovative solutions.</h2> */}
 
   </div>
