@@ -1,6 +1,6 @@
 ---
 title: "Rendered README!"
-excerpt: "First example."
+excerpt: "Complete markdown format example."
 createdAt: "2022-03-03"
 author: victor-salazar
 ---

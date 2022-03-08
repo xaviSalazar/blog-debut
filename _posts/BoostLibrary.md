@@ -11,6 +11,10 @@ author: Victor-Salazar
 
 _Boost is a set of C++ libraries._
 
+The Boost project provides free peer-reviewed portable C++ source libraries.
+
+The project website is www.boost.org, where you can obtain more information and download the current release.
+
 To install it we can use a _PPA_ repository
 (https://launchpad.net/~mhier/+archive/ubuntu/libboost-latest).
 
