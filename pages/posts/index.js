@@ -3,10 +3,17 @@ import { getAllPosts } from '../../lib/api'
 
 
 export default function Posts({ posts }) {
+
+  // --- sorting by date
+  posts.sort(function(a,b) {
+    return new Date(b.createdAt) - new Date(a.createdAt)
+  })
+  
     return (
       <div className="posts">
         
         <h1>Posts</h1>
+     
   
       {posts.map(post => {
         const prettyDate = new Date(post.createdAt).toLocaleString('en-US', {
