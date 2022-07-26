@@ -4,6 +4,7 @@ excerpt: "Important used command in linux."
 createdAt: "2022-05-28"
 author: Victor-Salazar
 ---
+
 Use command below to search for SSH servers on your local network.
 ```
 sudo nmap -Pn -p 22 -n 192.168.3.0/23 | less -p open
