@@ -21,11 +21,11 @@ Enable SPI in jetson nano
 
 If you’re running JetPack 4.3, Linux For Tegra 32.3.1, use the new jetson-io tool to enable spidev.
 
-[linktoforum](https://docs.nvidia.com/jetson/archives/l4t-archived/l4t-3231/index.html#page/Tegra%2520Linux%2520Driver%2520Package%2520Development%2520Guide%2Fhw_setup_jetson_io.html%23 136)
+[link_to_forum](https://docs.nvidia.com/jetson/archives/l4t-archived/l4t-3231/index.html#page/Tegra%2520Linux%2520Driver%2520Package%2520Development%2520Guide%2Fhw_setup_jetson_io.html%23)
 
 If running an older version, try the following…
 
-[linktoolderversion](https://devtalk.nvidia.com/default/topic/1062646/jetson-nano/updated-instructions-for-spi-on-nano-developmentkit-with-l4t-32-2-1/1 45)
+[link_to_older_version](https://devtalk.nvidia.com/default/topic/1062646/jetson-nano/updated-instructions-for-spi-on-nano-developmentkit-with-l4t-32-2-1/1)
 
 After adding any spi. Do not forget to put command
 
