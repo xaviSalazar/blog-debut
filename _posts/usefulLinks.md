@@ -33,3 +33,5 @@ author: Victor-Salazar
 
 [pure virtual function called errors] (https://www.artima.com/articles/pure-virtual-function-called-an-explanation)
 
+[canonical C++ classes] (https://subscription.packtpub.com/book/programming/9781804613900/18/ch18lvl1sec19/understanding-the-canonical-class-form)
+
