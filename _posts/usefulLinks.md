@@ -26,3 +26,10 @@ author: Victor-Salazar
 ## Free coding books
 [Free Coding Books](https://www.theinsaneapp.com/2021/01/free-programming-books.html)
 
+## LINKS to C++ according to what I learned 
+[i2c tutorial] (https://www.robot-electronics.co.uk/i2c-tutorial)
+
+[remove files in linux] (https://www.cyberciti.biz/faq/linux-unix-how-to-find-and-remove-files/)
+
+[pure virtual function called errors] (https://www.artima.com/articles/pure-virtual-function-called-an-explanation)
+
