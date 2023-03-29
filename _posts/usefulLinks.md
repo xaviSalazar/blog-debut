@@ -35,3 +35,7 @@ author: Victor-Salazar
 
 [canonical C++ classes] (https://subscription.packtpub.com/book/programming/9781804613900/18/ch18lvl1sec19/understanding-the-canonical-class-form)
 
+[Dependency injection and mocking using Google C++] (https://crysol.org/recipe/2011-02-18/dependency-injection-and-mocking-classes-using-c-and-google-mock-library.html#.ZCRP9nZBzIW)
+
+[Design patterns: Dependency injection] (https://www.bogotobogo.com/DesignPatterns/Dependency_Injection_Design_Pattern_Inversion_Of_Control_IoC.php)
+
