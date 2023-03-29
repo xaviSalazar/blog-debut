@@ -27,15 +27,15 @@ author: Victor-Salazar
 [Free Coding Books](https://www.theinsaneapp.com/2021/01/free-programming-books.html)
 
 ## LINKS to C++ according to what I learned 
-[i2c tutorial] (https://www.robot-electronics.co.uk/i2c-tutorial)
+[i2c tutorial](https://www.robot-electronics.co.uk/i2c-tutorial)
+ 
+[remove files in linux](https://www.cyberciti.biz/faq/linux-unix-how-to-find-and-remove-files/)
 
-[remove files in linux] (https://www.cyberciti.biz/faq/linux-unix-how-to-find-and-remove-files/)
+[pure virtual function called errors](https://www.artima.com/articles/pure-virtual-function-called-an-explanation)
 
-[pure virtual function called errors] (https://www.artima.com/articles/pure-virtual-function-called-an-explanation)
+[canonical C++ classes](https://subscription.packtpub.com/book/programming/9781804613900/18/ch18lvl1sec19/understanding-the-canonical-class-form)
 
-[canonical C++ classes] (https://subscription.packtpub.com/book/programming/9781804613900/18/ch18lvl1sec19/understanding-the-canonical-class-form)
+[Dependency injection and mocking using Google C++](https://crysol.org/recipe/2011-02-18/dependency-injection-and-mocking-classes-using-c-and-google-mock-library.html#.ZCRP9nZBzIW)
 
-[Dependency injection and mocking using Google C++] (https://crysol.org/recipe/2011-02-18/dependency-injection-and-mocking-classes-using-c-and-google-mock-library.html#.ZCRP9nZBzIW)
-
-[Design patterns: Dependency injection] (https://www.bogotobogo.com/DesignPatterns/Dependency_Injection_Design_Pattern_Inversion_Of_Control_IoC.php)
+[Design patterns: Dependency injection](https://www.bogotobogo.com/DesignPatterns/Dependency_Injection_Design_Pattern_Inversion_Of_Control_IoC.php)
 
