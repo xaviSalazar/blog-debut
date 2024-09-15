@@ -11,19 +11,19 @@
   },
   "dependencies": {
     "gray-matter": "^4.0.3",
-    "markdown-it": "^12.3.2",
-    "next": "12.1.0",
-    "react": "17.0.2",
-    "react-dom": "17.0.2",
-    "rehype-react": "^7.0.4",
-    "remark": "^14.0.2",
-    "remark-html": "^15.0.1"
+    "markdown-it": "^14.1.0",
+    "next": "^14.2.11",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "rehype-react": "^8.0.0",
+    "remark": "^15.0.1",
+    "remark-html": "^16.0.1"
   },
   "devDependencies": {
     "@tailwindcss/typography": "^0.5.2",
     "autoprefixer": "^10.4.2",
-    "eslint": "8.10.0",
-    "eslint-config-next": "12.1.0",
+    "eslint": "^8.57.0",
+    "eslint-config-next": "^14.2.11",
     "postcss": "^8.4.8",
     "tailwindcss": "^3.0.23"
   }

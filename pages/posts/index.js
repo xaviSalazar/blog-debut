@@ -26,7 +26,7 @@ export default function Posts({ posts }) {
           <article key={post.slug}>
             <h2>
               <Link href={post.permalink}>
-                <a>{post.title}</a>
+                {post.title}
               </Link>
             </h2>
 
@@ -35,7 +35,7 @@ export default function Posts({ posts }) {
             <p>{post.excerpt}</p>
 
             <Link href={post.permalink}>
-              <a>Read more →</a>
+              Read more
             </Link>
           </article>
         )

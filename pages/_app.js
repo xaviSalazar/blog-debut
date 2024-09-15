@@ -9,14 +9,14 @@ export default function App({ Component, pageProps }) {
         <nav>
           <ul>
             <li>
-              <Link href="/">
-                <a>Home</a>
+              <Link href="/" id="home-link">
+                Home
               </Link>
             </li>
 
             <li>
-              <Link href="/posts">
-                <a>Posts</a>
+              <Link href="/posts" id="posts-link">
+                Posts
               </Link>
             </li>
           </ul>
